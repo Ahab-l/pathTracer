@@ -1,4 +1,6 @@
 # pathTracer
+--------
+A physically based path tracer that runs in a GLSL fragment shader.
 # Feature
 --------
 - Unidirectional path tracer
